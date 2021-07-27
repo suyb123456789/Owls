@@ -1,0 +1,1392 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Polygonal Aliens Pack.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Animators/Demo Polygonal
+      Alien Garoo.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Animators/Demo Polygonal
+      Alien Garoo.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Animators/Polygonal Alien
+      Garoo.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Animators/Polygonal Alien
+      Garoo.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Bite
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Bite
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Feeding.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Feeding.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Jump
+      W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Jump
+      W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Jump
+      WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Jump
+      WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Look
+      Around.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Look
+      Around.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Roar.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Roar.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Run
+      Forward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Run
+      Forward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Run
+      Forward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Run
+      Forward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Left W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Left W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Left WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Left WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Right W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Right W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Right WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Strafe
+      Right WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Take
+      Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Take
+      Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Turn
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Turn
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Turn
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Turn
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Backward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Backward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Backward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Backward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Forward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Forward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Forward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/FBX/Polygonal Alien Garoo@Walk
+      Forward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Materials/Polygonal Garoo
+      Brown.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Materials/Polygonal Garoo
+      Brown.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Materials/Polygonal Garoo
+      Green.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Materials/Polygonal Garoo
+      Green.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Materials/Polygonal Garoo
+      Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Materials/Polygonal Garoo
+      Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Prefabs/Polygonal Alien
+      Garoo Brown.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Prefabs/Polygonal Alien
+      Garoo Brown.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Prefabs/Polygonal Alien
+      Garoo Green.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Prefabs/Polygonal Alien
+      Garoo Green.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Prefabs/Polygonal Alien
+      Garoo Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Prefabs/Polygonal Alien
+      Garoo Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Scenes/Animations Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Scenes/Animations Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Scenes/Turntable Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Scenes/Turntable Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Textures/Polygonal Garoo
+      Brown.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Textures/Polygonal Garoo
+      Brown.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Textures/Polygonal Garoo
+      Green.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Textures/Polygonal Garoo
+      Green.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Textures/Polygonal Garoo
+      Purple.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/Textures/Polygonal Garoo
+      Purple.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Garoo/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Animators/Demo Horror.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Animators/Demo Horror.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Animators/Polygonal Alien
+      Horror.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Animators/Polygonal Alien
+      Horror.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Front
+      Legs Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Front
+      Legs Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Look
+      Around.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Look
+      Around.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Left W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Left W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Left WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Left WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Right W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Right W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Right WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Strafe
+      Right WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Flick Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Flick Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Slice Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Slice Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Stab Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Stab Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Swing Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Tail
+      Swing Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Take
+      Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Take
+      Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Turn
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Turn
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Turn
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Turn
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Backward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/FBX/Polygonal Alien Horror@Walk
+      Forward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Materials/Horror Brown.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Materials/Horror Brown.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Materials/Horror Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Materials/Horror Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Materials/Horror Red.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Materials/Horror Red.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Prefabs/Polygonal Alien
+      Horror Brown.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Prefabs/Polygonal Alien
+      Horror Brown.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Prefabs/Polygonal Alien
+      Horror Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Prefabs/Polygonal Alien
+      Horror Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Prefabs/Polygonal Alien
+      Horror Red.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Prefabs/Polygonal Alien
+      Horror Red.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Scenes/Animations Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Scenes/Animations Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Scenes/Turntable scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Scenes/Turntable scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Textures/Horror Brown.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Textures/Horror Brown.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Textures/Horror Purple.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Textures/Horror Purple.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Textures/Horror Red.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/Textures/Horror Red.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Horror/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Animators/Demo Polygonal
+      Alien Longtail.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Animators/Demo Polygonal
+      Alien Longtail.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Animators/Polygonal Alien
+      Longtail.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Animators/Polygonal Alien
+      Longtail.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Materials/01 - Default.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Materials/01 - Default.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Materials/Polygonal
+      Longtail Cyan.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Materials/Polygonal
+      Longtail Cyan.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Cast Spell.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Cast Spell.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Dodge.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Dodge.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Forward.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Forward.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Spin Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Spin Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Stab Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Stab Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Take Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/FBX/Polygonal Alien Longtail@Fly
+      Take Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Materials/Polygonal Longtail
+      Blue.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Materials/Polygonal Longtail
+      Blue.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Materials/Polygonal Longtail
+      Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Materials/Polygonal Longtail
+      Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Materials/Polygonal Longtail
+      Red.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Materials/Polygonal Longtail
+      Red.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Prefabs/Polygonal Alien
+      Longtail Blue.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Prefabs/Polygonal Alien
+      Longtail Blue.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Prefabs/Polygonal Alien
+      Longtail Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Prefabs/Polygonal Alien
+      Longtail Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Prefabs/Polygonal Alien
+      Longtail Red.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Prefabs/Polygonal Alien
+      Longtail Red.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Scenes/Animations Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Scenes/Animations Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Scenes/Turntable Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Scenes/Turntable Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Textures/Polygonal Longtail
+      Blue.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Textures/Polygonal Longtail
+      Blue.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Textures/Polygonal Longtail
+      Purple.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Textures/Polygonal Longtail
+      Purple.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Textures/Polygonal Longtail
+      Red.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/Textures/Polygonal Longtail
+      Red.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Longtail/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animations.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animations/Spawn Demo.anim
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animations/Spawn Demo.anim.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animations/Spawn.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animations/Spawn.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Demo Magantee.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Demo Magantee.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Demo Magantis.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Demo Magantis.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Polygonal Alien
+      Magantee.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Polygonal Alien
+      Magantee.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Polygonal Alien
+      Magantis.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Polygonal Alien
+      Magantis.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Spawn Magantee.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Spawn Magantee.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Spawn Magantis.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Animators/Spawn Magantis.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Bite
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Bite
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up Spin Fast.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up Spin Fast.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up Spin Slow.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up Spin Slow.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up To Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up To Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Rolled
+      Up.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Spawn
+      From Mouth.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Spawn
+      From Mouth.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Spit
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Spit
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Left W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Left W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Left WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Left WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Right W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Right W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Right WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Strafe
+      Right WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Take
+      Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Take
+      Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Turn
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Turn
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Turn
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Turn
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Backward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantee@Walk
+      Forward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Claw
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Claw
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Roar.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Roar.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Spawn
+      Bug From Mouth.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Spawn
+      Bug From Mouth.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Sting
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Sting
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Left W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Left W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Left WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Left WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Right W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Right W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Right WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Strafe
+      Right WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Swing
+      Left Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Swing
+      Left Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Swing
+      Right Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Swing
+      Right Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Take
+      Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Take
+      Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Turn
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Turn
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Turn
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Turn
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Backward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/FBX/Polygonal Alien Magantis@Walk
+      Forward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Materials/Alien Magantis
+      Brown.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Materials/Alien Magantis
+      Brown.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Materials/Alien Magantis
+      Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Materials/Alien Magantis
+      Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Materials/Alien Magantis
+      Red.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Materials/Alien Magantis
+      Red.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantee Brown.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantee Brown.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantee Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantee Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantee Red.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantee Red.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantis Brown.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantis Brown.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantis Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantis Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantis Red.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Prefabs/Polygonal Alien
+      Magantis Red.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Animations Scene
+      01.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Animations Scene
+      01.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Animations Scene
+      02.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Animations Scene
+      02.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Spawn Demo Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Spawn Demo Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Turntable Scene
+      01.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Turntable Scene
+      01.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Turntable Scene
+      02.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Scenes/Turntable Scene
+      02.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Brown Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Brown Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Brown.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Brown.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Purple Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Purple Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Purple.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Purple.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Red Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Red Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Red.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/Textures/Alien Magantis
+      Red.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Magantis/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Animators/Rotate.anim
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Animators/Rotate.anim.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Animators/Rotate.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Animators/Rotate.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/FBX/Base.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/FBX/Base.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/FBX/Rock
+      01.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/FBX/Rock
+      01.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/FBX/Rock
+      02.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/FBX/Rock
+      02.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/Demo
+      Ground.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/Demo
+      Ground.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/FX
+      Mist.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/FX
+      Mist.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/FX
+      Sparks.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/FX
+      Sparks.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/Rock
+      Ground.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/Rock
+      Ground.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/Sky.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Materials/Sky.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/PPP.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/PPP/Animations
+      PPP.asset
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/PPP/Animations
+      PPP.asset.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/PPP/Turntable
+      PPP.asset
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/PPP/Turntable
+      PPP.asset.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/Environment
+      01.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/Environment
+      01.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/FX
+      Mist.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/FX
+      Mist.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/FX
+      Sparks.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/FX
+      Sparks.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/Rock
+      01.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/Rock
+      01.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/Rock
+      02.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Prefabs/Rock
+      02.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/FX
+      Mist.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/FX
+      Mist.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/Sky
+      Bottom.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/Sky
+      Bottom.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/Sky
+      Mid.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/Sky
+      Mid.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/Sky
+      Top.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Alien Demo Environments/Textures/Sky
+      Top.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Animators/Demo Serpent.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Animators/Demo Serpent.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Animators/Polygonal Alien
+      Serpent.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Animators/Polygonal Alien
+      Serpent.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Bite
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Bite
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Cast
+      Spell.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Cast
+      Spell.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Claw
+      Attack Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Claw
+      Attack Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Claw
+      Attack Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Claw
+      Attack Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Defend.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Defend.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Roar.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Roar.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Backward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Forward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Left W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Left W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Left WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Left WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Right W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Right W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Right WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Slither
+      Right WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Spit
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Spit
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Take
+      Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Take
+      Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Turn
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Turn
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Turn
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/FBX/Polygonal Alien Serpent@Turn
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Materials/Serpent Black.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Materials/Serpent Black.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Materials/Serpent Blue.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Materials/Serpent Blue.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Materials/Serpent Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Materials/Serpent Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Prefabs/Polygonal Alien
+      Serpent Black.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Prefabs/Polygonal Alien
+      Serpent Black.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Prefabs/Polygonal Alien
+      Serpent Blue.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Prefabs/Polygonal Alien
+      Serpent Blue.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Prefabs/Polygonal Alien
+      Serpent Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Prefabs/Polygonal Alien
+      Serpent Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Scenes/Animations Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Scenes/Animations Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Scenes/Turntable Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Scenes/Turntable Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Black
+      Glow.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Black
+      Glow.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Black.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Black.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Blue
+      Glow.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Blue
+      Glow.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Blue.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Blue.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Purple
+      Glow.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Purple
+      Glow.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Purple.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/Textures/Serpent Purple.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Serpent/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Animators/Demo Sicklus.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Animators/Demo Sicklus.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Animators/Polygonal Alien
+      Sicklus.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Animators/Polygonal Alien
+      Sicklus.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Bite
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Bite
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Cast
+      Spell.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Cast
+      Spell.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Dodge.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Dodge.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Backward.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Backward.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Forward.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Forward.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Fly
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Projectile
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Projectile
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Tail
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Tail
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Take
+      Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Take
+      Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Turn
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Turn
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Turn
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/FBX/Polygonal Alien Sicklus@Turn
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Materials/Sicklus Blue.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Materials/Sicklus Blue.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Materials/Sicklus Brown.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Materials/Sicklus Brown.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Materials/Sicklus Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Materials/Sicklus Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Prefabs/Polygonal Alien
+      Sicklus Blue.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Prefabs/Polygonal Alien
+      Sicklus Blue.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Prefabs/Polygonal Alien
+      Sicklus Brown.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Prefabs/Polygonal Alien
+      Sicklus Brown.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Prefabs/Polygonal Alien
+      Sicklus Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Prefabs/Polygonal Alien
+      Sicklus Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Scenes/Animations Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Scenes/Animations Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Scenes/Turntable Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Scenes/Turntable Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Textures/Sicklus Blue.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Textures/Sicklus Blue.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Textures/Sicklus Brown.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Textures/Sicklus Brown.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Textures/Sicklus Purple.psd
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/Textures/Sicklus Purple.psd.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Sicklus/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Animators/Demo Telekinis.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Animators/Demo Telekinis.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Animators/Polygonal
+      Alien Telekinis.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Animators/Polygonal
+      Alien Telekinis.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Defend Force field.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Defend Force field.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Fly Away.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Fly Away.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Meditate.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Meditate.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Mind Control.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Mind Control.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Backward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Forward Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Left Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Fast W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Fast W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Fast WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Fast WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Slow W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Slow W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Slow WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Move Right Slow WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Projectile Attack 01.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Projectile Attack 01.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Projectile Attack 02.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Projectile Attack 02.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Spawn From Sky.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Spawn From Sky.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Take Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Take Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Lift and Slam.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Lift and Slam.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Paralyze Opponent.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Paralyze Opponent.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Swing Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Swing Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Swing Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Telekinesis Swing Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Turn Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Turn Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Turn Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/FBX/Polygonal Alien
+      Telekinis@Turn Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Materials/Alien Telekinis
+      Blue.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Materials/Alien Telekinis
+      Blue.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Materials/Alien Telekinis
+      Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Materials/Alien Telekinis
+      Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Materials/Alien Telekinis
+      Red.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Materials/Alien Telekinis
+      Red.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis A Blue.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis A Blue.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis A Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis A Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis A Red.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis A Red.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis B Blue.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis B Blue.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis B Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis B Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis B Red.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Prefabs/Polygonal Alien
+      Telekinis B Red.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Scenes/Animations Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Scenes/Animations Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Scenes/Turntable Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Scenes/Turntable Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Blue Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Blue Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Blue.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Blue.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Purple Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Purple Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Purple.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Purple.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Red Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Red Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Red.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/Textures/Alien Telekinis
+      Red.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Telekinis/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Animators.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Animators/Demo Ulifo.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Animators/Demo Ulifo.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Animators/Polygonal Ulifo.controller
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Animators/Polygonal Ulifo.controller.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Die.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Die.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Feeding.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Feeding.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Idle.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Idle.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Jump
+      and Swallow Attack W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Jump
+      and Swallow Attack W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Jump
+      and Swallow Attack WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Jump
+      and Swallow Attack WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Left
+      Slice Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Left
+      Slice Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Leg
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Leg
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Right
+      Slice Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Right
+      Slice Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Roar.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Roar.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Run
+      Forward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Run
+      Forward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Run
+      Forward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Run
+      Forward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Stomp
+      Attack.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Stomp
+      Attack.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Left W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Left W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Left WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Left WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Right W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Right W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Right WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Strafe
+      Right WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Take
+      Damage.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Take
+      Damage.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Turn
+      Left.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Turn
+      Left.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Turn
+      Right.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Turn
+      Right.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Backward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Backward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Backward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Backward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Forward W Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Forward W Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Forward WO Root.FBX
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/FBX/Polygonal Ulifo@Walk
+      Forward WO Root.FBX.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/FX Slimes.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/FX Slimes.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/Polygonal Ulifo
+      Blue.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/Polygonal Ulifo
+      Blue.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/Polygonal Ulifo
+      Purple.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/Polygonal Ulifo
+      Purple.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/Polygonal Ulifo
+      Red.mat
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Materials/Polygonal Ulifo
+      Red.mat.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Prefabs.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Prefabs/Polygonal Ulifo
+      Blue.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Prefabs/Polygonal Ulifo
+      Blue.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Prefabs/Polygonal Ulifo
+      Purple.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Prefabs/Polygonal Ulifo
+      Purple.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Prefabs/Polygonal Ulifo
+      Red.prefab
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Prefabs/Polygonal Ulifo
+      Red.prefab.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Read me.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Read me.txt.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Scenes/Animations Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Scenes/Animations Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Scenes/Turntable Scene.unity
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Scenes/Turntable Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Blue Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Blue Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Blue.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Blue.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Purple.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Purple.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Red Glow.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Red Glow.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Red.png
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/Textures/Polygonal Ulifo
+      Red.png.meta
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/www.meshtint.com.txt
+    - Assets/Polygonal Aliens Pack/Polygonal Alien Ulifo/www.meshtint.com.txt.meta
+    - Assets/Polygonal Aliens Pack/Scenes.meta
+    - Assets/Polygonal Aliens Pack/Scenes/Main Image Scene.unity
+    - Assets/Polygonal Aliens Pack/Scenes/Main Image Scene.unity.meta
+    - Assets/Polygonal Aliens Pack/Scenes/Showcase Scene.unity
+    - Assets/Polygonal Aliens Pack/Scenes/Showcase Scene.unity.meta
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

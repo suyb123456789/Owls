@@ -17,7 +17,7 @@ public class Inventory : MonoBehaviour
 
     private List<ItemData> inventoryItemList;
 
-    public TextMeshProUGUI DescriptionText;
+   // public TextMeshProUGUI DescriptionText;
 
     public GameObject go_SlotsParent; // slot ºÎ¸ð°´Ã¼
 
@@ -59,9 +59,28 @@ public class Inventory : MonoBehaviour
         go.SetActive(false);
     }
 
-    public void AcquireItem(ItemData _item)
+    public void AcquireItem(ItemData item, int count = 1)
     {
+        if(ItemType.KEYITEM != item.type)
+        {
+            for(int i=0; i<slots.Length; i++)
+            {
+                if(slots[i].item != null && slots[i].item.itemname == item.itemname)
+                {
+                    slots[i].SetItemCount(count);
+                    return;
+                }
+            }
+        }
 
+        for(int i=0; i<slots.Length; i++)
+        {
+            if(slots[i].item == null)
+            {
+                slots[i].AddItem(item, count);
+                return;
+            }
+        }
     }
 
     

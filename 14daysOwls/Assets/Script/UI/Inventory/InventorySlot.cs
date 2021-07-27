@@ -12,7 +12,7 @@ public class InventorySlot : MonoBehaviour
     public TextMeshProUGUI itemCount_Text;
     public GameObject go_Count;
 
-    public void Additem(ItemData item, int count = 1)
+    public void AddItem(ItemData item, int count = 1)
     {
         this.item = item;
         icon.sprite = item.sprite;
