@@ -70,11 +70,11 @@ public class Player : MonoBehaviour
         }
         if (other.gameObject.tag == "Enemy")
         {
-            Attack();
+            Attack(other);
         }
     }
 
-    public void Attack()
+    public void Attack(Collision other)
     {
         //player 속도벡터
         Vector3 vec1 = this.GetComponent<Rigidbody>().velocity;
@@ -82,6 +82,9 @@ public class Player : MonoBehaviour
         if (Vector3.Magnitude(vec1) > speed)
         {
             Debug.Log("충돌");
+
+            //Enemy스크립트 가져오기
+            other.gameObject.GetComponent<Enemy>().Monster_Damaged(atk);
         }
     }
 
